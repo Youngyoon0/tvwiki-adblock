@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "packageType": "mods",
   "appName": "TVWiki AdBlock",
-  "websiteURL": "https://접속할사이트도메인.com",
+  "websiteURL": "https://tvwiki57.net",
   "main": "index.js",
   "evaluateScriptOnDocumentStart": false
 }
