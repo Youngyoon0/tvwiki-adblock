@@ -1,9 +1,8 @@
 {
   "name": "tvwiki-adblock",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "packageType": "mods",
   "appName": "TVWiki AdBlock",
-  "websiteURL": "https://tvwiki57.net",
-  "main": "index.js",
-  "evaluateScriptOnDocumentStart": false
+  "websiteURL": "https://xn--hq1bm8j30h9zemxa.com",
+  "main": "index.js"
 }
